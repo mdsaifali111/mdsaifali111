@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I’m passionate about coding and sharing knowledge. I'm always exploring new tech, solving real-world problems, and creating content to help others learn and grow. Whether you're a developer, a learner, or just curious about tech, you're in the right place! 
 
+[Visit My Portfolio](https://github.com/mdsaifali111/portfolio)
+
 If you need free resources to boost your skills, check out [codesaif.in](https://codesaif.in).
 
 ---
@@ -33,7 +35,7 @@ If you're looking to learn, I share a variety of free resources on my blog [code
 
 ### 📬 Get in Touch
 
-- **Email**: saifali1234@example.com
+- **Email**: contact@codesaif.in
 - **Website**: [codesaif.in](https://codesaif.in)
 - **LinkedIn**: [Saif Ali](https://www.linkedin.com/in/mdsaifali111)
 - **Twitter**: [@codesaif](https://twitter.com/codesaif)
